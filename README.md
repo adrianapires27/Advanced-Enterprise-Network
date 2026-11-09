@@ -52,13 +52,10 @@ The network is divided into four VLANs:
 
 The following diagrams illustrate the different network areas and infrastructure components.
 
-![Offices](Images/Offices.png)
-
-![Management](Images/Management.png)
-
-![Internet](Images/Internet.png)
-
-![Datacenter](Images/Datacenter.png)
+![Offices](Images/OFFICES.png)
+![Management](Images/MANAGEMENT.png)
+![Internet](Images/INTERNET.png)
+![Datacenter](Images/DATACENTER.png)
 ## 1. Infrastructure and Device Configuration
 
 ### A. Core and Edge Routing — BGI1-C7200
