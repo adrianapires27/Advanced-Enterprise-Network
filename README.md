@@ -27,7 +27,7 @@ The main objective was to establish communication between different network segm
 
 ### Overall Network Topology
 
-![Network Topology](Images/REDE.png)
+![Network Topology](Images/Rede.png)
 
 ### VLAN Configuration
 
