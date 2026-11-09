@@ -23,7 +23,42 @@ The main objective was to establish communication between different network segm
 - VLAN segmentation
 - IEEE 802.1Q VLAN Trunking
 - IPv4 and IPv6 dual-stack configuration
+## Network Topology and VLANs
 
+### Overall Network Topology
+
+![Network Topology](Images/Network_Topology.png)
+
+### VLAN Configuration
+
+The network is divided into four VLANs:
+
+| VLAN | Network Segment |
+|---|---|
+| VLAN 10 | VLAN 10 |
+| VLAN 20 | VLAN 20 |
+| VLAN 30 | VLAN 30 |
+| VLAN 40 | VLAN 40 |
+
+![VLAN 10](Images/VLAN10.png)
+
+![VLAN 20](Images/VLAN20.png)
+
+![VLAN 30](Images/VLAN30.png)
+
+![VLAN 40](Images/VLAN40.png)
+
+### Network Segments
+
+The following diagrams illustrate the different network areas and infrastructure components.
+
+![Offices](Images/Offices.png)
+
+![Management](Images/Management.png)
+
+![Internet](Images/Internet.png)
+
+![Datacenter](Images/Datacenter.png)
 ## 1. Infrastructure and Device Configuration
 
 ### A. Core and Edge Routing — BGI1-C7200
